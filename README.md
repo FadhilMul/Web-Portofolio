@@ -1,1 +1,4 @@
 # Web-Portofolio
+
+Website Portofolio ini adalah platform pribadi yang dirancang untuk menampilkan karya, keterampilan, dan perjalanan karier seorang web developer dan UI/UX designer. Dibangun menggunakan HTML, PHP, dan Bootstrap, website ini memberikan pengalaman pengguna yang responsif, modern, dan dinamis. Semua konten di situs web ini dikelola melalui sistem database, memungkinkan pembaruan yang mudah dan efisien.
+Website ini terdiri dari beberapa halaman utama: Home, About, Gallery, Blog, dan Contact. Setiap halaman dirancang untuk memberikan informasi spesifik , mulai dari deskripsi singkat, proyek-proyek yang telah dikerjakan, hingga form kontak. Secara keseluruhan, portofolio ini dirancang untuk menjadi representasi yang kuat dari keahlian dan minat di bidang teknologi dan desain, dengan fokus pada kemudahan penggunaan, penyajian visual yang kuat, dan manajemen konten yang efisien melalui database.
